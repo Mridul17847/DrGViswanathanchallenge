@@ -7,18 +7,18 @@ class Solution {
         }
         StringBuilder ans = new StringBuilder();
         while(!map.isEmpty()){
-            char maxChar = ' ';
-            int maxFreq = 0;
+            char maxCh = ' ';
+            int maxFre = 0;
             for(char ch : map.keySet()){
-                if(map.get(ch) > maxFreq){
-                    maxFreq = map.get(ch);
-                    maxChar = ch;
+                if(map.get(ch) > maxFre){
+                    maxFre= map.get(ch);
+                    maxCh = ch;
                 }
             }
-            for(int i = 0;i<maxFreq;i++){
-                ans.append(maxChar);
+            for(int i = 0;i<maxFre;i++){
+                ans.append(maxCh);
             }
-            map.remove(maxChar);
+            map.remove(maxCh);
         }
         return ans.toString();
     }

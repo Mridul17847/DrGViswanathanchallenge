@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

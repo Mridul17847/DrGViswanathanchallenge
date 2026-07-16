@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0287-find-the-duplicate-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0367-valid-perfect-square) |

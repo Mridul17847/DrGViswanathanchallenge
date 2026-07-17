@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1331-rank-transform-of-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0451-sort-characters-by-frequency) |

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1260-shift-2d-grid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

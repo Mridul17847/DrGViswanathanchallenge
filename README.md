@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0038-count-and-say) |
 | [0187-repeated-dna-sequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0383-ransom-note) |

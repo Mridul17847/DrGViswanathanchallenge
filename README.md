@@ -207,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1260-shift-2d-grid) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
